@@ -1,3 +1,5 @@
+//SIMPLE IDLE GAME MADE IN 3 HOURS
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
